@@ -1,0 +1,12 @@
+# Dependency directory
+# https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git
+node_modules
+
+# IDE/Editor data
+.idea
+
+# package.json and other
+package-lock.json
+package.json
+LICENSE
+readme.txt
